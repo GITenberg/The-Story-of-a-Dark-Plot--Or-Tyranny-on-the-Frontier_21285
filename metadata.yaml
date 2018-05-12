@@ -1,0 +1,25 @@
+_repo: The-Story-of-a-Dark-Plot--Or-Tyranny-on-the-Frontier_21285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: A.L.O.C.
+    gutenberg_agent_id: '9831'
+    url: http://www.gutenberg.org/2009/agents/9831
+description: ''
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Temperance'
+- !lcsh 'Smith, William W.'
+title: The Story of a Dark Plot; Or, Tyranny on the Frontier
+url: http://www.gutenberg.org/ebooks/21285
