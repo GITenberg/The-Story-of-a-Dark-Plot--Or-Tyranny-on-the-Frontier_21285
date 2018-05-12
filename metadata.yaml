@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9831'
     url: http://www.gutenberg.org/2009/agents/9831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21285#The-Story-of-a-Dark-Plot--Or-Tyranny-on-the-Frontier
 gutenberg_issued: '2007-05-04'
 gutenberg_type: Text
 identifiers:
